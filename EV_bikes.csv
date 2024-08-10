@@ -1,0 +1,58 @@
+model_name,price,mileage,type_of_bike,weight_in_kg,acceleration_speed,top_speed
+Gravton Motors Quanta,99000,320.0,Electric Bike,100,4.2,70.0
+Simple Energy One,109999,236.0,Electric Bike,110,3.6,100.0
+Okaya Classiq,69900,200.0,Electric Bike,95,,25.0
+Oben Electric Rorr,102999,200.0,Electric Bike,120,3.0,100.0
+Ola Electric S1,85099,181.0,Electric Bike,121,2.9,116.0
+Ola Electric S1 Pro,120149,181.0,Electric Bike,125,2.9,116.0
+Revolt RV300,114264,180.0,Electric Bike,101,4.0,65.0
+Okinawa Praise,71990,170.0,Electric Bike,96,9.43,78.0
+Hero Electric NYX HX,67540,165.0,Electric Bike,73,3.3,42.0
+Crayon Motors Envy,53000,160.0,Electric Bike,100,,25.0
+22Kymco Flow,74740,160.0,Electric Bike,85,,60.0
+Okinawa Okhi 90,103866,160.0,Electric Bike,96,5.0,90.0
+Revolt RV400,129463,150.0,Electric Bike,108,4.0,65.0
+Kabira Mobility KM 4000,136990,150.0,Electric Bike,150,3.1,120.0
+One Moto Electa,199000,150.0,Electric Bike,115,3.3,85.0
+Odysse Evoqis,157000,140.0,Electric Bike,200,4.2,80.0
+Okinawa i-Praise,108749,139.0,Electric Bike,150,9.43,75.0
+Li-ions Elektrik Spock,65000,130.0,Electric Bike,90,3.9,45.0
+Tork Motors Kratos,102499,120.0,Electric Bike,120,4.0,100.0
+Kabira Mobility KM 3000,126990,120.0,Electric Bike,150,3.3,100.0
+EeVe Soul,140000,120.0,Electric Bike,140,8.0,55.0
+BGauss D15,99999,115.0,Electric Bike,107,7.0,60.0
+Nexzu Mobility Dextro,47000,110.0,Electric Bike,62,,35.0
+BGauss A2,52499,110.0,Electric Bike,88,,25.0
+Nexzu Mobility Dextro +,66500,110.0,Electric Bike,62,,35.0
+Hero Electric Photon HX,74240,108.0,Electric Bike,87,9.58,45.0
+Atumobile Atum 1.0,50000,100.0,Electric Bike,108,,25.0
+Okinawa Ridge +,64998,100.0,Electric Bike,96,,45.0
+Boom Motors Corbett-14,86999,100.0,Electric Bike,90,,55.0
+Earth Energy EV Glyde +,92000,100.0,Electric Bike,110,,90.0
+Ather 450,118995,100.0,Electric Bike,108,3.3,80.0
+Bajaj Chetak,100000,95.0,Electric Bike,100,4.5,80.0
+Hero Electric Flash LX,59640,85.0,Electric Bike,69,10.0,42.0
+Hero Electric Atria LX,66640,85.0,Electric Bike,69,,25.0
+Ampere Zeal Ex,74489,85.0,Electric Bike,78,11.0,50.0
+Bounce Infinity E1,45099,83.0,Electric Bike,94,8.0,65.0
+Hero Electric Optima HX,55580,82.0,Electric Bike,73,8.0,42.0
+Polarity Executive,38000,80.0,Electric Bike,55,,40.0
+Polarity Sport,40000,80.0,Electric Bike,55,,45.0
+Gemopai Astrid Lite,84787,80.0,Electric Bike,96,7.39,65.0
+Odysse V2,75000,75.0,Electric Bike,75,,25.0
+Ampere Magnus Pro,79966,75.0,Electric Bike,94,10.0,55.0
+TVS iQube,166358,75.0,Electric Bike,118,4.2,78.0
+Odysse Racer,59500,70.0,Electric Bike,100,8.0,45.0
+BGauss B8,62999,70.0,Electric Bike,88,11.0,50.0
+Ampere Zeal,74490,70.0,Electric Bike,75,13.8,55.0
+Lohia Omastar,40850,60.0,Electric Bike,66,,25.0
+Okinawa R30,58992,60.0,Electric Bike,150,,25.0
+Okinawa Dual,58998,60.0,Electric Bike,96,,25.0
+Evolet Pony,39499,55.0,Electric Bike,82,,25.0
+Evolet Polo,44499,55.0,Electric Bike,82,,25.0
+Evolet Derby,46499,55.0,Electric Bike,82,,25.0
+Ampere Reo Elite,47264,55.0,Electric Bike,68,,25.0
+Okinawa Lite,59990,50.0,Electric Bike,150,,25.0
+Ampere V48,38719,45.0,Electric Bike,84,,25.0
+Ampere Reo,44838,45.0,Electric Bike,70,,25.0
+Ampere Magnus,45999,45.0,Electric Bike,94,,25.0
